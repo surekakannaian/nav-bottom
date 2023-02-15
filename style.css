@@ -46,6 +46,6 @@ nav{
     }
 
     .nav-active{
-        bottom: 60vh;
+        bottom: 0;
     }
 }
